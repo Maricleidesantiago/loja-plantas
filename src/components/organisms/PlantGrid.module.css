@@ -1,0 +1,12 @@
+.container {
+  padding: 16px; /* espaçamento externo do grid */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* centraliza os cards horizontalmente */
+  gap: 16px; /* espaçamento entre os cards */
+}
+
+.item {
+  display: flex;
+  justify-content: center; /* centraliza o conteúdo do item */
+}

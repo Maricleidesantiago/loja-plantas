@@ -1,0 +1,21 @@
+.primary {
+  background-color: #c2a39a;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.secondary {
+  background-color: #e1d1c8;
+  color: #333;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.primary:hover, .secondary:hover {
+  opacity: 0.8;
+}
